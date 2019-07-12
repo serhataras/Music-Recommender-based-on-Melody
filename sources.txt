@@ -1,0 +1,27 @@
+http://slam.iis.sinica.edu.tw/demo/CAL500exp/
+http://marsyas.info/
+http://www.cp.jku.at/research/papers/Seyerlehner_phd_2010.pdf
+https://github.com/nelemans1971/AudioFingerprinting
+https://github.com/unique1o1/Meta-Music
+http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.76.5246&rep=rep1&type=pdf
+http://benanne.github.io/2014/08/05/spotify-cnns.html
+https://www.spicefly.com/article.php?page=what-is-musicip
+
+Million Song Dataset: https://labrosa.ee.columbia.edu/millionsong/
+Yue: https://github.com/0411tony/Yue
+Yahoo Music Recommendation system -> https://github.com/saranyavsr/Music-Recommendations
+
+Alternating Least Squares (ALS) approach for recommendation: https://github.com/etchsaleh/Suggestify
+CSFAIR 2017, BULBUL -> https://github.com/aeakdogan/BulbulProject
+https://github.com/aeakdogan/BulbulProject
+
+Friends Of Your Friend -> https://labrosa.ee.columbia.edu/millionsong/lastfm
+CAL10k: https://labrosa.ee.columbia.edu/millionsong/pages/additional-datasets
+
+https://towardsdatascience.com/how-to-build-a-simple-song-recommender-296fcbc8c85
+https://towardsdatascience.com/how-to-build-a-simple-song-recommender-296fcbc8c85
+https://hackernoon.com/popularity-based-song-recommendation-system-without-any-library-in-python-12a4fbfd825e
+
+Panako for audio fingerprinting -> http://panako.be/releases/Panako-latest/readme.html#usage
+https://www.jamendo.com/start
+https://github.com/worldveil/dejavu
